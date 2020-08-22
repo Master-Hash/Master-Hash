@@ -1,4 +1,4 @@
-### Hi there 👋
+最喜欢的事情是思考。
 
 <!--
 **Master-Hash/Master-Hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
