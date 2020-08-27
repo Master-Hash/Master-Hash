@@ -1,4 +1,4 @@
-<a href="https://github.com/syfxlin?tab=repositories">
+<a href="https://github.com/Master-Hash?tab=repositories">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Master-Hash&show_icons=true&hide_border=true" />
 </a>
 
