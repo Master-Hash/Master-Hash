@@ -1,6 +1,5 @@
-<a href="https://github.com/Master-Hash?tab=repositories">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Master-Hash&show_icons=true&hide_border=true" />
-</a>
+[![](https://github-readme-stats.vercel.app/api?username=Master-Hash&show_icons=true&hide_border=true&theme=react&locale=cn)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Master-Hash&locale=cn)](https://github.com/Master-Hash?tab=repositories)
+
 
 
 最喜欢的事情是思考。
